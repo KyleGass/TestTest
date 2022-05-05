@@ -3,20 +3,12 @@
 Fragen zum Thema: Patch-Management, Monitoring und Fault Prevention
 
 1.	Was kommt nach der Erstellung des Patches?
-Fallback
-Verkauf der Software
-Backup
 Testphase
 
 2.	Was ist ein Beispiel eines Patches?
-Kundenumfrage
-Monitoring eines Netzwerkes
 Bugfix
 
 3.	Was passiert direkt nach einem Fehler während des Patch-Rollouts?
-Nichts
-Erstellen eines Backups
-Es wird an einem anderen Produkt gearbeitet
 Analyse des Fehlers
 
 4.	CheckMK nutzt Hardware zum Überwachen
@@ -26,9 +18,6 @@ False
 False
 
 6.	Hardwaresysteme sind:
-Backups
-Stromversorgung
-HDD
 Server
 
 7.	CheckMK kann Switches analysieren
@@ -38,33 +27,24 @@ True
 True
 
 9.	Fault Prevention meint:
-Linux
-Kommunikation
 Ausfallsicherheit
 
 10.	Ein Update kann Funktionserweiterungen enthalten
 True
 
 11.	Wofür dienen Reportings?
-Beheben direkt alle Probleme
-Sind Lösungsvorschläge für den nächsten Patch
 Verbessern die Verteilungsprozesse
 
 12.	Wodurch kann man den Ausfall eines Dienstes im laufenden Betrieb verhindern?
-Daten herunterladen
-Backup erstellen
 Alternativserver, der parallel läuft
 
 13.	Welche Punkte sollen von einem Monitoring Dienst übernommen werden?
-Geräte neustarten
-Status von Komponenten erfassen
-Protokollierung von Diensten
+
+Status von Komponenten erfassen,
+Protokollierung von Diensten,
 Auslösen eines Alarms bei Ausfall
 
 14.	Wie überwacht man in CheckMK Netzwerkhardware?
-SMTP
-SSL
-http
 SNMP
 
 15.	Ein Update kann Funktionserweiterungen enthalten
