@@ -5,46 +5,45 @@
 1.	Was kommt nach der Erstellung des Patches?
 Testphase
 
-2.	Was ist ein Beispiel eines Patches?
+Was ist ein Beispiel eines Patches?
 Bugfix
 
-3.	Was passiert direkt nach einem Fehler während des Patch-Rollouts?
+Was passiert direkt nach einem Fehler während des Patch-Rollouts?
 Analyse des Fehlers
 
-4.	CheckMK nutzt Hardware zum Überwachen
+CheckMK nutzt Hardware zum Überwachen
 False
 
-5.	Hotfixes haben eine geringe Priorität
+Hotfixes haben eine geringe Priorität
 False
 
-6.	Hardwaresysteme sind:
+Hardwaresysteme sind:
 Server
 
-7.	CheckMK kann Switches analysieren
+CheckMK kann Switches analysieren
 True
 
-8.	CheckMK: Komponenten werden über Agents überwacht
+CheckMK: Komponenten werden über Agents überwacht
 True
 
-9.	Fault Prevention meint:
+Fault Prevention meint:
 Ausfallsicherheit
 
-10.	Ein Update kann Funktionserweiterungen enthalten
+Ein Update kann Funktionserweiterungen enthalten
 True
 
-11.	Wofür dienen Reportings?
+Wofür dienen Reportings?
 Verbessern die Verteilungsprozesse
 
-12.	Wodurch kann man den Ausfall eines Dienstes im laufenden Betrieb verhindern?
+Wodurch kann man den Ausfall eines Dienstes im laufenden Betrieb verhindern?
 Alternativserver, der parallel läuft
 
-13.	Welche Punkte sollen von einem Monitoring Dienst übernommen werden?
-
+Welche Punkte sollen von einem Monitoring Dienst übernommen werden?
 Status von Komponenten erfassen,
 Protokollierung von Diensten,
 Auslösen eines Alarms bei Ausfall
 
-14.	Wie überwacht man in CheckMK Netzwerkhardware?
+Wie überwacht man in CheckMK Netzwerkhardware?
 SNMP
 
 15.	Ein Update kann Funktionserweiterungen enthalten
@@ -55,50 +54,50 @@ True
 1. Worin unterscheidet sich das XOR und ODER Gatter? 
 Beim XOR-Gatter kann nur ein Eingang auf „1“ sein damit der Ausgang „1“ ist. 
 
-2. Wofür steht EPK? 
+Wofür steht EPK? 
 Ereignisgesteuerte Prozessketten 
 
-3. Was versteht man unter einem Ereignis im EPK? 
+Was versteht man unter einem Ereignis im EPK? 
 Eingetretene Zustände 
 
-4. Welche Einsatzgebiete hat EPK? 
+Welche Einsatzgebiete hat EPK? 
 Für die Geschäftsprozessmodellierung 
 
-5. Was für Konnektoren gibt es im EPK? 
+Was für Konnektoren gibt es im EPK? 
 AND 
  
-6. Welches der folgenden Begriffe ist nicht teil des Standard EPK’s? 
+Welches der folgenden Begriffe ist nicht teil des Standard EPK’s? 
 Organisationseinheit 
 
-7. (Wahr oder falsch) Es müssen nicht alle Elemente im EPK verbunden sein. 
+Es müssen nicht alle Elemente im EPK verbunden sein. 
 A: f 
 
-8. (Wahr oder falsch) Auf jedem Ereignis folgt eine Funktion, und auf jeder Funktion folgt ein Ereignis. 
+Auf jedem Ereignis folgt eine Funktion, und auf jeder Funktion folgt ein Ereignis. 
 A: w 
 
-9. In welchem Land wird EPK hauptsächlich verwendet? 
+In welchem Land wird EPK hauptsächlich verwendet? 
 Deutschland 
 
-10. (Wahr oder falsch) Auf jeder Funktion folgt ein Ereignis, und auf jedem Ereignis folgt eine Funktion. 
+Auf jeder Funktion folgt ein Ereignis, und auf jedem Ereignis folgt eine Funktion. 
 A: w 
 
-11. (Wahr oder falsch) Beim EEPK kann jede Funktion mit einem zusätzlichen Informationsobjekt verbunden werden. 
+Beim EEPK kann jede Funktion mit einem zusätzlichen Informationsobjekt verbunden werden. 
 A: w 
 
-12. (Wahr oder falsch) Durch die gute Standardisierung von EPK kann es in vielen Einsatzgebieten eingesetzt werden. 
+Durch die gute Standardisierung von EPK kann es in vielen Einsatzgebieten eingesetzt werden. 
 A: f 
 
-13. Wann wurde das Modell entwickelt? 
+Wann wurde das Modell entwickelt? 
 1992 
 
-14. (Wahr oder falsch) EPK ist ein zentraler Bestandteil der Architektur Integrierter Informationssysteme. 
+EPK ist ein zentraler Bestandteil der Architektur Integrierter Informationssysteme. 
 A: w 
 
-15. (Wahr oder falsch) Betriebliche Vorgänge können durch die grafische Darstellung asymmetrisch erfasst und optimiert werden. 
+15. Betriebliche Vorgänge können durch die grafische Darstellung asymmetrisch erfasst und optimiert werden. 
 A: f
 
+
 · 4-Ohren-Modell 
- 
 Wer und wann hat das Kommunikationsquadrat erfunden? 
 1981 Friedemann Schulz 
 
