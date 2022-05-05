@@ -188,3 +188,51 @@ Mobile Device Management und Inventarisierung
 Erleichtert ein Self-Service die Arbeit einer IT-Abteilung? 
 Wahr 
 
+SLA
+
+Das SLA ist eine Vereinbarung zwischen Leistungsersteller und Leistungsnachfrager.
+t
+
+Was muss in einem SLA-Vertrag stehen?
+Vertragspartner
+
+SLA steht für...
+Service Level Agreement
+
+Bearbeitungsgeschwindigkeit und Reaktionszeit werden im SLA verbessert durch...
+Vertragsstrafen
+
+SMART-Ziele sind nicht...
+Allgemein
+
+Ein SLA ist nicht attraktiv, wenn ein Unternehmen Interesse an ... hat.
+Inhouse-Lösungen
+
+SLA's sind gewöhnlich unterteilt in verschiedene Gütestufen.
+t
+
+Welches SLA gibt es nicht?
+Outbound Vereinbarung, Kirimana
+
+Wobei werden SLA's heutzutage nicht verwendet?
+Liaison Managment
+
+Ein SLA ist...
+formal
+
+Welches ist kein Juristisches Element in einem SLA Vertrag?
+Folter, Arrestation
+
+Welches Element gehört nicht in einem SLA Vertrag?
+Sovietische Klausel
+
+Wofür stehen SLA's?
+Sie Definieren Regeln für Services oder Dienstleistungen
+
+Können SLA's ablaufen?
+t
+
+Wann sollte man SLA's überarbeiten?
+Die technische Umgebung hat  sich geändert, Die geschäftlichen Anforderungen des Kunden haben sich geändert
+
+
